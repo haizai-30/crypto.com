@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>区块链平台</title>
+</head>
+<body>
+    <header>
+        <h1>区块链平台</h1>
+        <nav>
+            <ul>
+                <li><a href="#services">我们的服务</a></li>
+                <li><a href="#about">关于我们</a></li>
+                <li><a href="#contact">联系</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="services">
+            <h2>我们的服务</h2>
+            <div class="service">
+                <h3>加密交易</h3>
+                <p>安全快速的交易平台，支持多种加密货币。</p>
+            </div>
+            <div class="service">
+                <h3>钱包服务</h3>
+                <p>安全的数字钱包，轻松管理您的资产。</p>
+            </div>
+            <div class="service">
+                <h3>教育资源</h3>
+                <p>学习区块链技术，掌握投资策略。</p>
+            </div>
+        </section>
+
+        <section id="about">
+            <h2>关于我们</h2>
+            <p>我们是一支致力于区块链技术创新的团队，旨在为全球用户提供安全、便捷的交易体验。</p>
+        </section>
+
+        <section id="contact">
+            <h2>联系</h2>
+            <p>如需了解更多信息，请通过电子邮件联系我们。</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>© 2025 区块链平台. 保留所有权利。</p>
+    </footer>
+</body>
+</html>
